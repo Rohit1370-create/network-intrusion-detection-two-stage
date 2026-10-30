@@ -1,0 +1,12 @@
+# competition data and generated submissions (never commit these)
+data/*.csv
+*.csv
+*.zip
+
+# notebook and python clutter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/

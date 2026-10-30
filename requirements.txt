@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+lightgbm
+matplotlib
+jupyter
+# only for notebooks/experiments/multi_family_ensemble.ipynb
+xgboost
+catboost
