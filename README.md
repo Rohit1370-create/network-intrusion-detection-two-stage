@@ -189,7 +189,7 @@ notebooks/
     multi_family_ensemble.ipynb          LightGBM + XGBoost + CatBoost stage 2
     pseudo_labeling.ipynb                self-training on confident test predictions
     per_pair_tuned_specialists.ipynb     separately tuned pairwise specialists
-data/                                    place the competition CSVs here (not included)
+data/                                    
 requirements.txt
 ```
 
